@@ -1,0 +1,17 @@
+body {
+    font-family: Comic Sans MS, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #17804d;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    background: #fbffe6;
+}
+
+h1 {
+    color: #088f61;
+    border-bottom: 2px solid #17804d;
+    padding-bottom: 10px;
+}
